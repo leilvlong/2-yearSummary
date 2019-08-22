@@ -12,4 +12,5 @@ IDEA永久激活教程: <https://blog.csdn.net/shengshengshiwo/article/details/7
 
 
 
--javaagent:D:\java_ide\javaide\IntelliJ IDEA 2018.2.5\bin\JetbrainsIdesCrack-4.2-release-sha1-3323d5d0b82e716609808090d3dc7cb3198b8c4b.jar
+IDEA永久激活教程: <https://blog.csdn.net/shengshengshiwo/article/details/79599761>
+
