@@ -11,3 +11,5 @@ esAPI:<https://artifacts.elastic.co/javadoc/org/elasticsearch/elasticsearch/5.6.
 IDEA永久激活教程: <https://blog.csdn.net/shengshengshiwo/article/details/79599761>
 
 mysql查询选择:https://blog.csdn.net/weixin_33869377/article/details/86265527
+
+spring cloud 微服务下分布式事务解决方案: https://github.com/seata/seata
