@@ -15,3 +15,5 @@ mysql查询选择:https://blog.csdn.net/weixin_33869377/article/details/86265527
 spring cloud 微服务下分布式事务解决方案: https://github.com/seata/seata
 
 七个Spring boot 开源微服务项目架构: https://blog.csdn.net/u012702547/article/details/100973824
+
+https://gitchat.csdn.net/column/5af108d20a989b69c385f47a?utm_source=so
