@@ -19,3 +19,5 @@ spring cloud 微服务下分布式事务解决方案: https://github.com/seata/s
 https://gitchat.csdn.net/column/5af108d20a989b69c385f47a?utm_source=so
 
 spring cloud 160W+阅读博客: https://blog.csdn.net/forezp/article/details/70148833
+
+关于拦截器读request输入流:https://blog.csdn.net/lzj1005642974/article/details/87798815
